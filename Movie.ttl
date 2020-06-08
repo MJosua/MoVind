@@ -449,3 +449,8 @@ id:M025 mc:Sequel id:M001 .
 id:M005 mc:Sequel id:M018 .
 id:M005 mc:Sequel id:M001 .  
 id:M005 mc:Sequel id:M018 . 
+
+#Franchise
+id:M042 mc:Franchise id:M043 .
+od:M042 mc:Franchise id:M044 .
+od:M043 mc:Franchise id:M044 .
